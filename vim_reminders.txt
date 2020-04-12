@@ -1,0 +1,12 @@
+
+e end
+
+f/F find forward/back
+t/T un(t)ill forward/back
+; repeat last find/till
+, repeat last find/till backwards
+
+<n>G GO!
+
+:e . file browser
+

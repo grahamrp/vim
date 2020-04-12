@@ -1,0 +1,8 @@
+[ ] Keyboard: Key Repeat Fast, Delay Until Repeat Short
+[ ] Keyboard: Modifier Keys... Caps Lock Key => Escape
+[ ] get cheat sheet http://www.viemu.com/vi-vim-cheat-sheet.gif
+[ ] git clone https://github.com/grahamrp/vim
+
+
+
+
