@@ -5,4 +5,5 @@ set autoindent          " auto indenting
 set number              " line numbers
 colorscheme desert      " colorscheme desert
 set nobackup            " get rid of anoying ~file
+set hidden		" allow auto-hiding of buffers when new ones are opened
 
